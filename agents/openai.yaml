@@ -1,0 +1,4 @@
+interface:
+  display_name: "长视频纪录片制作"
+  short_description: "从样片到长片验收与发布物料，复用纪录式视频制作流程"
+  default_prompt: "使用 $longform-documentary-video 制作或修订有解说的纪录式长视频。"
